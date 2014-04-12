@@ -105,6 +105,51 @@ only screen  and (min-device-width: 481px) and (max-device-width: 540px){
 		background-color: #6f0;
 	}
 }
+@media only screen and (min-width: 321px) and (max-width: 480px)
+{
+	body{
+		background-color: #0f9;
+	}
+}
+@media only screen and (max-width: 320px)
+{
+	body{
+		background-color: #e32;
+	}
+}
+
+
+/*
+@media only screen and (min-width: 1260px) and (max-width: 3960px),
+only screen  and (min-device-width: 1260px) and (max-device-width: 3960px){ 
+	body{
+		background-color: #ccc;
+	}	
+}		
+@media only screen and (min-width: 1000px) and (max-width: 1259px),
+only screen  and (min-device-width: 1000px) and (max-device-width: 1259px){
+	body{
+		background-color: #0cc;
+	}
+} 
+@media only screen and (min-width: 681px) and (max-width: 999px),
+only screen  and (min-device-width: 681px) and (max-device-width: 999px){
+	body{
+		background-color: #06c;
+	}
+}    
+@media only screen and (min-width: 541px) and (max-width: 680px),
+only screen  and (min-device-width: 541px) and (max-device-width: 680px){
+	body{
+		background-color: #066;
+	}
+}
+@media only screen and (min-width: 481px) and (max-width: 540px),
+only screen  and (min-device-width: 481px) and (max-device-width: 540px){
+	body{
+		background-color: #6f0;
+	}
+}
 @media only screen and (min-width: 321px) and (max-width: 480px),
 only screen  and (min-device-width: 321px) and (max-device-width: 480px){
 	body{
@@ -117,3 +162,5 @@ only screen  and (max-device-width: 320px) {
 		background-color: #e32;
 	}
 }
+
+*/
