@@ -85,32 +85,32 @@ body{
 	border: 2px solid #000;	
 	background-color: #fff;
 }
-@media only screen and (min-width: 1260px) and (max-width: 3960px),
-only screen  and (min-device-width: 1260px) and (max-device-width: 3960px){ 
+@media only screen and (min-width: 1260px) and (max-width: 3960px)
+{ 
 	body{
 		background-color: #ccc;
 	}	
 }		
-@media only screen and (min-width: 1000px) and (max-width: 1259px),
-only screen  and (min-device-width: 1000px) and (max-device-width: 1259px){
+@media only screen and (min-width: 1000px) and (max-width: 1259px)
+{
 	body{
 		background-color: #0cc;
 	}
 } 
-@media only screen and (min-width: 681px) and (max-width: 999px),
-only screen  and (min-device-width: 681px) and (max-device-width: 999px){
+@media only screen and (min-width: 681px) and (max-width: 999px)
+{
 	body{
 		background-color: #06c;
 	}
 }    
-@media only screen and (min-width: 541px) and (max-width: 680px),
-only screen  and (min-device-width: 541px) and (max-device-width: 680px){
+@media only screen and (min-width: 541px) and (max-width: 680px)
+{
 	body{
 		background-color: #066;
 	}
 }
-@media only screen and (min-width: 481px) and (max-width: 540px),
-only screen  and (min-device-width: 481px) and (max-device-width: 540px){
+@media only screen and (min-width: 481px) and (max-width: 540px)
+{
 	body{
 		background-color: #6f0;
 	}
